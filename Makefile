@@ -13,3 +13,4 @@ employee.o: employee.cpp employee.hpp
 
 clean:
 	rm -f *.o main
+	//
