@@ -12,7 +12,7 @@ std::string Employee::get_title(){
 float Employee::get_pay_rate(){
   return this->pay_rate;
 }
-
+//
 float Employee::get_monthly_pay(float hours_worked){
   return hours_worked * this->pay_rate;
 }
